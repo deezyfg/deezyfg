@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peter Opoku-Mensah</h1>
 <h3 align="center">An enthusiastic software engineer in the making, currently learning the ropes through the exceptional ALX program. I possess a keen eye for detail, a passion for problem-solving, and a deep-seated desire to contribute my skills and knowledge to meaningful projects.</h3>
+<img aling="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deezyfg&label=Profile%20views&color=0e75b6&style=flat" alt="deezyfg" /> </p>
 
