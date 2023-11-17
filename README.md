@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deezyfg&label=Profile%20views&color=0e75b6&style=flat" alt="deezyfg" /> </p>
 
-<p align="left"> <a href="https://twitter.com/coded_issue" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="coded_issue"  </p>
+<p align="left"> <a href="https://twitter.com/coded_issue" target="blank"><img src="https://img.shields.io/twitter/follow/coded_issue?logo=twitter&style=for-the-badge" alt="coded_issue"  </p>
 
 - 🔭 I’m currently working on **ALX Projects**
 
