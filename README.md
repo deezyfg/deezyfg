@@ -28,7 +28,7 @@ Committed to cultivating expertise and creating impactful solutions through code
 
 - 🔭 I’m currently working on  **variety of projects.**
 
-- 🌱 I’m currently learning **C, Python and AI Essentials**
+- 🧠 I’m currently learning **C, Python and AI Essentials**
 
 - 💬 Ask me about **programming languages, tech-related topics, and more**
 
