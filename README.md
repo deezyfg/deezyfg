@@ -5,7 +5,7 @@
 
 ### 👨‍💻 **Aspiring Software Engineer**
 
-#### Passionate About
+#### Passionate About:
 - 🌐 **Web Development**
 - 🚀 **DevOps**
 - 💻 **Software Engineering**
@@ -32,7 +32,7 @@ Committed to cultivating expertise and creating impactful solutions through code
 
 - 💬 Ask me about **programming languages, tech-related topics, and more**
 
-- 📫 How to reach me **mensahpeter421@gmail.com**
+- 📫 How to reach me <a href = "mailto:mensahpeter421@gmail.com"><stronf>Email</strong></a>
 
 - ⚡ Fun fact **I'm guaranteed to make you laugh until your sides hurt!**
 
