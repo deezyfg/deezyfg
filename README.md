@@ -10,8 +10,13 @@
 - 🚀 **DevOps**
 - 💻 **Software Engineering**
 - 🤖 **Artificial Intelligence**
+- 📊 **Data Science**
 
 Committed to cultivating expertise and creating impactful solutions through code.
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deezyfg" alt="deezyfg" /></a> </p>
 
 ---
 
@@ -21,11 +26,11 @@ Committed to cultivating expertise and creating impactful solutions through code
 
 <p align="left"> <a href="https://twitter.com/coded_issue" target="blank"><img src="https://img.shields.io/twitter/follow/coded_issue?logo=twitter&style=for-the-badge" alt="coded_issue"  </p>
 
-- 🔭 I’m currently working on **ALX Projects**
+- 🔭 I’m currently working on  **variety of projects.**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, Python and AI Essentials**
 
-- 💬 Ask me about **Bash Scripting,Shell, C**
+- 💬 Ask me about **programming languages, tech-related topics, and more**
 
 - 📫 How to reach me **mensahpeter421@gmail.com**
 
